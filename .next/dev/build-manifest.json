@@ -1,0 +1,25 @@
+{
+  "pages": {
+    "/_app": []
+  },
+  "devFiles": [],
+  "polyfillFiles": [
+    "static/chunks/0f054_next_dist_build_polyfills_polyfill-nomodule.js"
+  ],
+  "lowPriorityFiles": [
+    "static/development/_ssgManifest.js",
+    "static/development/_buildManifest.js"
+  ],
+  "rootMainFiles": [
+    "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_591e71a7._.js",
+    "static/chunks/0f054_next_dist_compiled_react-dom_f4886bd1._.js",
+    "static/chunks/0f054_next_dist_compiled_react-server-dom-turbopack_23d3210f._.js",
+    "static/chunks/0f054_next_dist_compiled_next-devtools_index_e535b878.js",
+    "static/chunks/0f054_next_dist_compiled_d5163cc6._.js",
+    "static/chunks/0f054_next_dist_client_37cdae5b._.js",
+    "static/chunks/0f054_next_dist_c1bc488e._.js",
+    "static/chunks/0f054_@swc_helpers_cjs_cb3de8b9._.js",
+    "static/chunks/Documents_pocket_heist_pocket_a0ff3932._.js",
+    "static/chunks/turbopack-Documents_pocket_heist_pocket_c1da4c45._.js"
+  ]
+}

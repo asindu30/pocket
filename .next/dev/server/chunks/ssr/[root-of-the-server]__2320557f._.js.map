@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 22, "column": 0}, "map": {"version":3,"sources":["file:///Users/mac02/Documents/pocket_heist/pocket/app/%28dashboard%29/heists/page.tsx"],"sourcesContent":["export default function HeistsPage() {\n  return (\n    <div className=\"page-content\">\n      <div className=\"active-heists\">\n        <h2>Your Active Heists</h2>\n      </div>\n      <div className=\"assigned-heists\">\n        <h2>Heists You've Assigned</h2>\n      </div>\n      <div className=\"expired-heists\">\n        <h2>All Expired Heists</h2>\n      </div>\n    </div>\n  )\n}"],"names":[],"mappings":";;;;;;AAAe,SAAS;IACtB,qBACE,qRAAC;QAAI,WAAU;;0BACb,qRAAC;gBAAI,WAAU;0BACb,cAAA,qRAAC;8BAAG;;;;;;;;;;;0BAEN,qRAAC;gBAAI,WAAU;0BACb,cAAA,qRAAC;8BAAG;;;;;;;;;;;0BAEN,qRAAC;gBAAI,WAAU;0BACb,cAAA,qRAAC;8BAAG;;;;;;;;;;;;;;;;;AAIZ"}}]
+}

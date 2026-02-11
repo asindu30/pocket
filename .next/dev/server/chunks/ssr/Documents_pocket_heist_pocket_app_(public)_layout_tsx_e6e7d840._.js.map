@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///Users/mac02/Documents/pocket_heist/pocket/app/%28public%29/layout.tsx"],"sourcesContent":["export default function RootLayout({\n  children,\n}: Readonly<{\n  children: React.ReactNode\n}>) {\n  return (\n    <main className=\"public\">\n      {children}\n    </main>\n  )\n}\n"],"names":[],"mappings":";;;;;;AAAe,SAAS,WAAW,EACjC,QAAQ,EAGR;IACA,qBACE,qRAAC;QAAK,WAAU;kBACb;;;;;;AAGP"}}]
+}

@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["file:///Users/mac02/Documents/pocket_heist/pocket/components/Navbar/Navbar.module.css"],"sourcesContent":["/*! tailwindcss v4.1.18 | MIT License | https://tailwindcss.com */\n.siteNav {\n  background-color: var(--color-light, #0A101D);\n  padding-inline: calc(var(--spacing, 0.25rem) * 2);\n  padding-block: calc(var(--spacing, 0.25rem) * 4);\n}\n.siteNav nav {\n  margin-inline: auto;\n  display: flex;\n  max-width: var(--container-6xl, 72rem);\n  align-items: center;\n  justify-content: space-between;\n}\n.siteNav h1 {\n  font-size: var(--text-xl, 1.25rem);\n  line-height: var(--tw-leading, var(--text-xl--line-height, calc(1.75 / 1.25)));\n  --tw-font-weight: var(--font-weight-bold, 700);\n  font-weight: var(--font-weight-bold, 700);\n}\nsvg.logo {\n  display: inline-block;\n}\n@property --tw-font-weight {\n  syntax: \"*\";\n  inherits: false;\n}"],"names":[],"mappings":"AACA;;;;;;AAKA;;;;;;;;AAOA;;;;;;;AAMA;;;;AAGA"}}]
+}

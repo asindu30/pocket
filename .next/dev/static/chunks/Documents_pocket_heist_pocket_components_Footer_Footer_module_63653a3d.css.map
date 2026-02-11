@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["file:///Users/mac02/Documents/pocket_heist/pocket/components/Footer/Footer.module.css"],"sourcesContent":["/*! tailwindcss v4.1.18 | MIT License | https://tailwindcss.com */\n.footer {\n  margin-top: auto;\n  border-top-style: var(--tw-border-style);\n  border-top-width: 1px;\n  border-color: var(--color-slate-800, oklch(27.9% 0.041 260.031));\n  background-color: var(--color-light, #0A101D);\n  padding-block: calc(var(--spacing, 0.25rem) * 6);\n}\n.footerContent {\n  margin-inline: auto;\n  max-width: var(--container-6xl, 72rem);\n  padding-inline: calc(var(--spacing, 0.25rem) * 4);\n  text-align: center;\n  font-size: var(--text-sm, 0.875rem);\n  line-height: var(--tw-leading, var(--text-sm--line-height, calc(1.25 / 0.875)));\n  color: var(--color-slate-400, oklch(70.4% 0.04 256.788));\n}\n@property --tw-border-style {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: solid;\n}\n"],"names":[],"mappings":"AACA;;;;;;;;;AAAA;EAAA;;;;;AAQA;;;;;;;;;;AAAA;EAAA;;;;;AASA"}}]
+}

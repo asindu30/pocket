@@ -1,0 +1,39 @@
+/* [project]/Documents/pocket_heist/pocket/components/Footer/Footer.module.css [app-client] (css) */
+.Footer-module__P0kATG__footer {
+  border-top-style: var(--tw-border-style);
+  border-top-width: 1px;
+  border-color: var(--color-slate-800, #1d293d);
+  background-color: var(--color-light, #0a101d);
+  padding-block: calc(var(--spacing, .25rem) * 6);
+  margin-top: auto;
+}
+
+@supports (color: lab(0% 0 0)) {
+  .Footer-module__P0kATG__footer {
+    border-color: var(--color-slate-800, lab(16.132% -.318035 -14.6672));
+  }
+}
+
+.Footer-module__P0kATG__footerContent {
+  max-width: var(--container-6xl, 72rem);
+  padding-inline: calc(var(--spacing, .25rem) * 4);
+  text-align: center;
+  font-size: var(--text-sm, .875rem);
+  line-height: var(--tw-leading, var(--text-sm--line-height, calc(1.25 / .875)));
+  color: var(--color-slate-400, #90a1b9);
+  margin-inline: auto;
+}
+
+@supports (color: lab(0% 0 0)) {
+  .Footer-module__P0kATG__footerContent {
+    color: var(--color-slate-400, lab(65.5349% -2.25151 -14.5072));
+  }
+}
+
+@property --tw-border-style {
+  syntax: "*";
+  inherits: false;
+  initial-value: solid;
+}
+
+/*# sourceMappingURL=Documents_pocket_heist_pocket_components_Footer_Footer_module_63653a3d.css.map*/

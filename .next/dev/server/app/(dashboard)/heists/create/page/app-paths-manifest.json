@@ -1,0 +1,3 @@
+{
+  "/(dashboard)/heists/create/page": "app/(dashboard)/heists/create/page.js"
+}

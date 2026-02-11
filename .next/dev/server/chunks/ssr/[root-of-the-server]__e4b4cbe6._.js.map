@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 22, "column": 0}, "map": {"version":3,"sources":["file:///Users/mac02/Documents/pocket_heist/pocket/app/%28dashboard%29/heists/create/page.tsx"],"sourcesContent":["export default function CreateHeistPage() {\n  return (\n    <div className=\"center-content\">\n      <div className=\"page-content\">\n        <h2 className=\"form-title\">Create a New Heist</h2>\n      </div>\n    </div>\n  )\n}"],"names":[],"mappings":";;;;;;AAAe,SAAS;IACtB,qBACE,qRAAC;QAAI,WAAU;kBACb,cAAA,qRAAC;YAAI,WAAU;sBACb,cAAA,qRAAC;gBAAG,WAAU;0BAAa;;;;;;;;;;;;;;;;AAInC"}}]
+}

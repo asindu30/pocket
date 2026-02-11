@@ -1,0 +1,32 @@
+/* [project]/Documents/pocket_heist/pocket/components/Navbar/Navbar.module.css [app-client] (css) */
+.Navbar-module__lEFUnW__siteNav {
+  background-color: var(--color-light, #0a101d);
+  padding-inline: calc(var(--spacing, .25rem) * 2);
+  padding-block: calc(var(--spacing, .25rem) * 4);
+}
+
+.Navbar-module__lEFUnW__siteNav nav {
+  max-width: var(--container-6xl, 72rem);
+  justify-content: space-between;
+  align-items: center;
+  margin-inline: auto;
+  display: flex;
+}
+
+.Navbar-module__lEFUnW__siteNav h1 {
+  font-size: var(--text-xl, 1.25rem);
+  line-height: var(--tw-leading, var(--text-xl--line-height, calc(1.75 / 1.25)));
+  --tw-font-weight: var(--font-weight-bold, 700);
+  font-weight: var(--font-weight-bold, 700);
+}
+
+svg.Navbar-module__lEFUnW__logo {
+  display: inline-block;
+}
+
+@property --tw-font-weight {
+  syntax: "*";
+  inherits: false
+}
+
+/*# sourceMappingURL=Documents_pocket_heist_pocket_components_Navbar_Navbar_module_56f22811.css.map*/
