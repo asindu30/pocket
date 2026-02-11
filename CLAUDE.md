@@ -22,7 +22,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - `npm run start` - Start production server (requires `npm run build` first)
 
 ## Architecture & Structure
-
+````
 ### Routing & Layout (Next.js App Router with Route Groups)
 The app uses Next.js App Router with two main route groups:
 
